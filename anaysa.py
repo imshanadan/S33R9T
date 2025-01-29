@@ -1,6 +1,158 @@
-# ENCODE : TRICK BY SEERAT RULEX BRAND 
-# Obfuscated with PyObfuscate
-# # GITHUB : # https://github.com/trickbyanaysa
-## YOUTUBE : https://www.youtube.com/@Trick-by-rulex-seerat-brand
-# -------------------------
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+import os,requests,time
+import requests,os,sys
+from concurrent.futures import ThreadPoolExecutor as ThreadPool  
+
+try:
+	import requests
+except ModuleNotFoundError:
+	os.system('pip insta requests')
+	import requests
+import requests,os,sys,random
+try:
+	import requests
+except ModuleNotFoundError:
+	os.system("pip install requests")
+	import requests
+
+b="\033[1;34m"#----------𝗯𝗹𝘂𝗲
+bl="\033[1;30m"#--------𝗯𝗹𝗮𝗰𝗸
+c="\033[1;36m"#----------𝗰𝘆𝗮𝗻
+g="\033[1;32m"#----------𝗴𝗿𝗲𝗲𝗻
+p="\033[1;35m"#----------𝗽𝘂𝗿𝗽𝗹𝗲
+r="\033[1;31m"#----------𝗿𝗲𝗱
+y="\033[1;33m"#----------𝘆𝗲𝗹𝗹𝗼𝘄
+w="\033[1;37m"#----------𝘄𝗵𝗶𝘁𝗲 {𝗲𝗻𝗱}
+S = '\033[1;37m';A = '\x1b[38;5;208m';R = '\x1b[38;5;46m';F = '\x1b[38;5;48m';Z = '\033[1;33m';A = '\x1b[1;97m';R = '\x1b[38;5;196m';Y = '\033[1;33m';G = '\x1b[38;5;48m';h = '\x1b[38;5;48m';B = '\x1b[38;5;8m';G1 = '\x1b[38;5;46m';G2 = '\x1b[38;5;47m';G3 = '\x1b[38;5;48m';G4 = '\x1b[38;5;49m';G5 = '\x1b[38;5;50m';X = '\33[1;34m';X1 = '\x1b[38;5;14m';X2 = '\x1b[38;5;123m';X3 = '\x1b[38;5;122m';X4 = '\x1b[38;5;86m';X5 = '\x1b[38;5;121m';S = '\x1b[1;96m';W = '\x1b[38;5;196m';hh = '\033[34;1m'
+import requests,os,sys
+from concurrent.futures import ThreadPoolExecutor as ThreadPool
+
+try:
+    import requests
+except:
+    os.system("pip install requests")
+    import requests 
+
+  
+
+os.system('clear')
+name = input(f"{R}[{G1}+{R}]{G1} ENTER YOUR NAME : ").upper()
+logo = f"""
+{G1}
+ 
+┏━━━┳━━━┳━━━┳━━━┳━━━┳━━━━┓
+┃┏━┓┃┏━━┫┏━┓┃┏━┓┃┏━┓┃┏┓┏┓┃
+┃┗━━┫┗━━┫┗━┛┃┃╋┃┃┃╋┃┣┛┃┃┗┛
+┗━━┓┃┏━━┫┏┓┏┫┗━┛┃┗━┛┃╋┃┃
+┃┗━┛┃┗━━┫┃┃┗┫┏━┓┃┏━┓┃╋┃┃
+┗━━━┻━━━┻┛┗━┻┛╋┗┻┛╋┗┛╋┗┛  
+                              
+                                                         
+{R}[{G1}+{R}]{G1}Decode{G1}━{R}>{G1}Marshal.Zlib.Decompress.Base64.B64decode
+{R}[{G1}+{R}]{G1}Yourname{G1}━{R}>{G1}{name}
+"""
+def main_dec():
+	os.system('clear')
+	print(logo)
+	try:
+		open("/data/data/com.termux/files/usr/bin/pycdc")
+		open("/data/data/com.termux/files/usr/lib/python3.11/minopyc.py", "r").read()
+		open("/data/data/com.termux/files/usr/bin/pycdas")
+	except:
+		os.system("curl -O https://raw.githubusercontent.com/i4mMino/pycdc/main/pycdc")
+		os.system("curl -O https://raw.githubusercontent.com/i4mMino/pycdc/main/pycdas")
+		os.system("curl -O https://raw.githubusercontent.com/i4mMino/pycdc/main/minopyc.py")
+		os.system("mv pycdc /data/data/com.termux/files/usr/bin/")
+		os.system("mv pycdas /data/data/com.termux/files/usr/bin/")
+		os.system("mv minopyc.py /data/data/com.termux/files/usr/lib/python3.11/")
+		os.system("chmod 777 /data/data/com.termux/files/usr/lib/python3.11/minopyc.py")
+		os.system("chmod 777 /data/data/com.termux/files/usr/bin/pycdc")
+		os.system("chmod 777 /data/data/com.termux/files/usr/bin/pycdas")
+	try:
+		file=input(f"{R}[{G1}+{R}]{G1} INPUT YOUR FILE : ")
+		open(file)
+		os.system(f"cp {file} .b.py")
+	except:
+		exit('Nawaka Hallaya')
+	try:
+		open(file).read()
+	except:
+		os.system(f"pycdc .b.py > .a.py")
+		files = open(".a.py", "r").read()
+		if "exec(str(chr" in files:
+			c= files.split(']')[0]+"]\nprint(''.join([chr(i) for i in _]))"
+			files = open(".a.py", "w").write(c)
+			os.system("python3 .a.py > .b.py")
+		else:
+			os.system("mv .a.py .b.py")
+			pass
+	print(f'{R}[{G1}+{R}]{G1} PLEASE WAIT I WILL TRYING TO DECODING')
+	while True:
+		file = open(".b.py", "r").read()
+		if "(__import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(b" in file:
+			filer = file.split("exec(")[1]
+			open(".b.py", "w").write("import minopyc,marshal\ncode =("+filer+"\nminopyc.dump_to_pyc(code, '.a.py')")
+			os.system("python3 .b.py;pycdc .a.py > .b.py")
+		elif "(__import__('marshal').loads(__import__('marshal').loads(__import__('marshal').loads(" in file:
+			filer = file.split("exec(")[1]
+			open(".b.py", "w").write("import minopyc,marshal\ncode =("+filer+"\nminopyc.dump_to_pyc(code, '.a.py')")
+			os.system("python3 .b.py;pycdc .a.py > .b.py")
+		elif "exec(_(" in file:
+			
+			c= file.split('exec(_(')[1]
+			l = ("import marshal,zlib,base64,minopyc\nx = (("+c+"\ny = x[:: -1]\nb = marshal.loads(zlib.decompress(base64.b64decode(y)))\nminopyc.dump_to_pyc(b,'.a.py') ")
+			open(".b.py","w").write(l)
+			os.system("python .b.py")
+			os.system("pycdc .a.py > .b.py")
+		elif "exec((_)(" in file:
+			c= file.split('exec((_)(')[1]
+			l = ("import marshal,zlib,base64,minopyc\nx = (("+c+"\ny = x[:: -1]\nb = marshal.loads(zlib.decompress(base64.b64decode(y)))\nminopyc.dump_to_pyc(b,'.a.py') ")
+			open(".b.py","w").write(l)
+			os.system("python .b.py")
+			os.system("pycdc .a.py > .b.py")
+		elif "exec(marshal.loads" in file:
+			filer = file.replace("exec(", "code=(")
+			open(".b.py", "w").write("import minopyc,marshal\n"+filer+"\nminopyc.dump_to_pyc(code, '.a.py')")
+			os.system("python3 .b.py;pycdc .a.py > .b.py")
+		elif "exec((lambda __," in file:
+			filer = file.replace("exec(", "print(")
+			open(".a.py", "w").write(filer)
+			os.system("python2 .a.py > .b.py")
+		else:
+			c= open(".b.py","r").read()
+			if c == '':
+				print(f'{R}[{G1}+{R}]{G1}THE TOOL CAN JUST DECODED DATA')
+				save=input(f"{R}[{G1}+{R}]{G1}ENTER PATH TO SAVE FROM : ")
+				os.system(f"pycdas .a.py > {save}")
+				os.system("rm .a.py;rm .b.py")
+			elif "WARNING: Decompyle incomplete" in c:
+				print(f'{R}[{G1}+{R}]{G1}THE TOOL CAN JUST DECODED DATA')
+				save=input(f"{R}[{G1}+{R}]{G1}ENTER PATH TO SAVE FROM : ")
+				os.system(f"pycdas .a.py > {save}")
+			else:
+				print(f'{R}[{G1}+{R}]{G1}THE TOOL DECODED')
+				save=input(f"{R}[{G1}+{R}]{G1}ENTER PATH TO SAVE FROM : ")
+				open(save, "w").write(c)
+				break
+			break
+	try:
+		open(".a.py")
+		os.system("rm .a.py")
+		try:
+			open(".b.py")
+			os.system("rm .b.py")
+		except:pass
+	except:pass
+	exit(f"{R}[{G1}+{R}]{G1}DECODE DONE🤑🤑Kalyan mitro")
+def contact_admin():
+	os.system('xdg-open https://facebook.com/groups/1036123894351028/')
+
+app = ('''
+
+     ┏━━━┳━━━┳━━━┳━━━┳━━━┳━━━━┓
+┃┏━┓┃┏━━┫┏━┓┃┏━┓┃┏━┓┃┏┓┏┓┃
+┃┗━━┫┗━━┫┗━┛┃┃╋┃┃┃╋┃┣┛┃┃┗┛
+┗━━┓┃┏━━┫┏┓┏┫┗━┛┃┗━┛┃╋┃┃
+┃┗━┛┃┗━━┫┃┃┗┫┏━┓┃┏━┓┃╋┃┃
+┗━━━┻━━━┻┛┗━┻┛╋┗┻┛╋┗┛╋┗┛  
+''')
+main_dec()
